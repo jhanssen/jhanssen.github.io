@@ -1,0 +1,4 @@
+*.app
+*.dmg
+*.icns
+.DS_Store
